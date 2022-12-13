@@ -1,0 +1,7 @@
+h1{
+    text-align: center;
+}
+h2{
+    border: 2px solid darkblue;
+}
+/*how to make the border just around the text, not extended till the end of the page?*/
